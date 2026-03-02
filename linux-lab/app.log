@@ -1,2 +1,3 @@
-application started
- eror db connection failed
+Error:Database connection failed
+Info:application started 
+connecting to database
